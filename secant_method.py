@@ -1,11 +1,11 @@
 particulars = """
-Information of other group members has not be disclosed to privacy
-Group Project
-1. Group Member 1, *******
-2. Group Member 2, *******
-3. Group Member 3, *******
-4. Group Member 4, *******
-5. Shonim Shaheen, 1008471"""
+Group Project members:
+
+1. Tan Shieh Reine
+2. Ryan Sim Junyue,
+3. Natalia Tan Yu Ling
+4. Tang Peng Siang
+5. Shonim Shaheen"""
 print(particulars)
 
 #commented codes explain
